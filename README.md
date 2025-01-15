@@ -31,6 +31,6 @@ cd weather-app-website
 
 ## 📧 Contact
 Developed by: **Your Name**
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-- Email: yourname@example.com
+- GitHub: [https://https://github.com/warayuthR
+- Email: warayuth39@gmail.com
 
